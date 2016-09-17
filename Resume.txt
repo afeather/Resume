@@ -25,7 +25,7 @@ platform. The work also included fixing minor problems with the website and addi
 
 Summer 2013
 
-Web Developer intern at BMighty2, Lincoln VT
+Web Developer Intern at BMighty2, Lincoln VT
 BMighty2 develops small business websites using Wordpress. Responsibilities included working with PHP, SQL, CSS and
 JavaScript to develop Wordpress templates, plug-ins and widgets to meet the customer’s needs.
 

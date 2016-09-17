@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #make sure the PDF has been created
-pdflatex -interaction=nonstopmode Resume.tex
+pdflatex -interaction=nonstopmode Resume.tex | grep -c "LaTeX Error"
 echo "Resume.pdf created..."
 
 #create our PNG image

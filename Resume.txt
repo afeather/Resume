@@ -6,11 +6,12 @@ AlexFeather77@Gmail.com
 Work Experience
 2015 - Present
 
-Developer for CSC Bath Iron Works Account, Bath ME
-Technical lead on multiple projects as well being responsible for fixing issues as they were discovered by the clients.
-Major projects included deploying the Cornerstone Learning Management system and upgrading the environemnt used
-to run the Deltek suite of applications. Also gained experience using the Jira issue tracking system. Most development
-was done in Java and Visual Basic and required writing Linux, Windows or SQL scripts.
+Associate Programmer Analyst for CSC Bath Iron Works Account, Bath ME
+Worked closely with the client in order to develop new applications as well as improve existing applications in order to
+allow the shipyard to continue their work as efficiently as possible. Technical lead on multiple projects including deploying
+the Cornerstone Learning Management System and upgrading the Deltek Project Management environment. Also gained
+experience using the Jira Issue Tracking System, Oracle Middleware products and other custom applications used by the
+shipyard. Most development was done in Java and Visual Basic and included writing Linux, Windows and SQL scripts.
 
 2014 - 2015
 

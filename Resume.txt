@@ -7,11 +7,11 @@ Work Experience
 2015 - Present
 
 Associate Programmer Analyst for CSC Bath Iron Works Account, Bath ME
-Worked closely with the client in order to develop new applications as well as improve existing applications in order to
+Worked closely with the client in order to develop new applications as well as to improve existing applications in order to
 allow the shipyard to continue their work as efficiently as possible. Technical lead on multiple projects including deploying
-the Cornerstone Learning Management System and upgrading the Deltek Project Management environment. Also gained
-experience using the Jira Issue Tracking System, Oracle Middleware products and other custom applications used by the
-shipyard. Most development was done in Java and Visual Basic and included writing Linux, Windows and SQL scripts.
+the Cornerstone learning management system and upgrading the Deltek project management environment. Also gained
+experience using Jira issue tracking, Oracle middleware products and other custom applications used by the shipyard.
+Most development was done in Java and Visual Basic and included writing Linux, Windows and SQL scripts.
 
 2014 - 2015
 

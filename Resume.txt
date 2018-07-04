@@ -17,8 +17,8 @@ reported.
 
 Application Developer for Fujifilm, Bedford MA
 A contract position working in a small team to develop a system to manage data stored in Fujifilm’s Dternity Deep Archive.
-Web applications were created in ASP.NET using MS SQL, AJAX, CSS and JQuery. Responsibilities also included setting
-up virtualized SFTP servers and developing Python scripts to perform automated tasks on the servers.
+Web applications were created in ASP.NET using MS SQL, AJAX, CSS and JQuery. Responsibilities also included setting up
+virtualized SFTP servers and developing Python scripts to perform automated tasks on the servers.
 
 2013 - 2014
 

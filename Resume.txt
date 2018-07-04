@@ -5,20 +5,19 @@ AlexFeather77@Gmail.com
 Work Experience
 2015 - Present
 
-Associate Programmer Analyst for CSC Bath Iron Works Account, Bath ME
-Worked closely with the client in order to develop new applications as well as to improve existing applications in order to
-allow the shipyard to continue their work as efficiently as possible. Technical lead on multiple projects including deploying
-the Cornerstone learning management system and upgrading the Deltek project management environment. Also gained
-experience using Jira issue tracking, Oracle middleware products and other custom applications used by the shipyard.
-Most development was done in Java and Visual Basic and included writing Linux, Windows and SQL scripts.
+Programmer Analyst for DXC Bath Iron Works Account, Bath ME
+Supported development and maintenance of multple systems throughout the shipyard. Primarily supported the finance,
+work authorization, learning management and tool management systems as well as technical lead on projects involving
+these areas. Other responsibilities included training other employees, creating design and architecture documents, assisting with vetting new products and creating project deploy documents. Development was done mostly in Java, Oracle
+SQL, Bash and Visual Basic.
 
 2014 - 2015
 
 Application Developer for Fujifilm, Bedford MA
 A contract position working in a small team to develop a system to manage data stored in Fujifilm’s Dternity Deep
-Archive. Web applications were created in ASP.NET using MS SQL, AJAX, CSS and JQuery. Responsibilities included
-setting up a virtualized SFTP server with chrooted environments and logging over the network. Python scripts were
-developed to perform automated tasks on the server.
+Archive. Web applications were created in ASP.NET using MS SQL, AJAX, CSS and JQuery. Responsibilities also
+included setting up virtualized SFTP servers and Python scripts were developed to perform automated tasks on the
+server.
 
 2013 - 2014
 

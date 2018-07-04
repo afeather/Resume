@@ -9,8 +9,9 @@ Programmer Analyst for DXC Bath Iron Works Account, Bath ME
 Primary support for the finance, work authorization, learning management and tool management systems as well as
 technical lead on projects involving these areas. Often work closely with the client to implement requested features and
 resolve any issues. Other responsibilities include training other employees, creating design and architecture documents,
-assisting with the vetting of new products, working with vendors to diagnose problems and creating project level deployment documents. Development was done mostly in Java, Oracle SQL, Bash and Visual Basic. Jira was used to track
-issues as they were reported.
+assisting with the vetting of new products, working with vendors to diagnose problems and creating project level deployment
+documents. Development was done mostly in Java, Oracle SQL, Bash and Visual Basic. Jira was used to track issues as
+they were reported.
 
 2014 - 2015
 

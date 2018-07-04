@@ -6,7 +6,7 @@ Work Experience
 2015 - Present
 
 Programmer Analyst for DXC Bath Iron Works Account, Bath ME
-Supported development and maintenance of multple systems throughout the shipyard. Primarily supported the finance,
+Supported development and maintenance of multiple systems throughout the shipyard. Primarily supported the finance,
 work authorization, learning management and tool management systems as well as technical lead on projects involving
 these areas. Worked closely with the client to implement new programs as well as fixing any issues that were discovered.
 Other responsibilities included training other employees, creating design and architecture documents, assisting with

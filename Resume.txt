@@ -35,24 +35,24 @@ Education
 2011 - 2014
 
 BS Computer Science, Loughborough University, England
-Graduated with a 2:2 (equivalent to a 3.0 GPA). Final Year Project was titled ”The Implementation and Optimization of
-the SHA2 and SHA3 Hashing Algorithms” which involved implementing the SHA2 and recently chosen SHA3 algorithms
-in Java as well as researching and implementing optimizations for both programs. The report compared the performance
-of each of the programs based on how quickly they could hash a given set of data.
+Graduated with a 2:2 (equivalent to a 3.0 GPA). Final Year Project was titled ”The Implementation and Optimization of the
+SHA2 and SHA3 Hashing Algorithms” which involved implementing the SHA2 and recently chosen SHA3 algorithms in Java as
+well as researching and implementing optimizations for both programs. The report compared the performance of each of the
+programs based on how quickly they could hash a given set of data.
 
 2007 - 2011
 
 Westford Academy, Westford MA
-Graduated high school with a 2.7 GPA and a 1910 on the SAT. Also completed the Computer Science AP Test with a
-5/5, the Calculus AP Test with a 4/5 and the Statistics AP Test with a 3/5.
+Graduated high school with a 2.7 GPA and a 1910 on the SAT. Also completed the Computer Science AP Test with a 5/5, the
+Calculus AP Test with a 4/5 and the Statistics AP Test with a 3/5.
 
 Extra-Curricular Activities
 Eagle Scout Award
-Achieved the rank of Eagle Scout by being heavily involved in my local Boy Scout troop as well as completing an Eagle
-Project which involved fundraising and building a brick firepit for East Boston Camps in Westford, MA.
+Achieved the rank of Eagle Scout by being heavily involved in my local Boy Scout troop as well as completing an Eagle Project
+which involved fundraising and building a brick firepit for East Boston Camps in Westford, MA.
 
 Order of the Arrow
-Very active with the Order of the Arrow which is the National Honors Society of Scouting. This is a youth led organization
-that performs service for the community as well as the local Scout camps.
+Very active with the Order of the Arrow which is the National Honors Society of Scouting. This is a youth led organization that
+performs service for the community as well as the local Scout camps.
 
 

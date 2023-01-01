@@ -1,46 +1,67 @@
-\documentclass[12pt]{article}
-
+\documentclass[12pt, letterpaper]{article}
 \usepackage[margin=0.5in]{geometry}
-\usepackage{hyperref}
-
+\usepackage{longtable}
+\usepackage{enumitem}
 \begin{document}
 \pagestyle{empty}
 \fontfamily{lmss}\selectfont
-
-{\centering{\huge Alexander Feather}\\
-\vspace{0.1cm}(321) 210 6404\\\vspace{0.1cm}AlexFeather77@Gmail.com\\}
-\vspace{0.4cm}
-
+\begin{center}
+{\huge Alexander Feather} \\
+\vspace{0.1cm}
+alexfeather77@gmail.com
+\end{center}
+\vspace{-0.2cm}
+Professional Software Engineer with experience working closely with end users to design and develop complex systems of applications using the best technology for the task.
+\begin{itemize}[itemsep=0cm, parsep=0.2cm]
+    \item Team leader that enjoys learning new things and mentoring others on concepts that may be unfamiliar to them in order to improve the overall quality of the project.
+    \item Experience in many different fields including web and socket based services, single user desktop applications, multi-application interfaces and low level hardware programming.
+    \item Participated in complete life-cycle development for multiple projects including generating requirements, designing architecture, developing applications, testing functionality and writing documentation. 
+\end{itemize}
+\vspace{-0.9cm}
 \section*{\fontfamily{lmss}\selectfont Technical Skills}
-\small{ASP.NET, VB.NET, Java, HTML, CSS, JavaScript, JQuery, PHP, Python, Oracle SQL, MS SQL, MS Access, MySQL, BASH, BATCH, PowerShell, C++, Haskell, \LaTeX, Prolog, Visual Basic, PERL and VBScript. Experience with Jira Issue Tracking, Cornerstone LMS and PMS, Deltek Finance Suite, Infor WFM, Github, Apache Subversion, Oracle Mid-Tier Products, WordPress CMS, JDeveloper, SQLDeveloper, Eclipse, NetBeans, Visual Studio, Microsoft Office Suite, Windows and Linux Services.}
-
+\vspace{-0.2cm}
+\begin{itemize}[itemsep=0cm, leftmargin=2in, align=parleft, labelwidth=1.6in]
+    \item[High Level Languages:] Java, Python, PHP, Visual Basic, C\# and ASP.NET.
+    \item[Scripting Languages:] Bash, Batch, PowerShell, VBScript, JavaScript, JQuery, HTML and CSS.
+    \item[Databases:] Microsoft SQL, Oracle SQL, MySQL and Microsoft Access.
+    \item[Tools:] Jira, Bamboo, Confluence, Fisheye, BitBucket, Jenkins, Git, Apache Subversion, Oracle Mid-Tier Products and WordPress CMS.
+\end{itemize}
+\vspace{-1.1cm}
 \section*{\fontfamily{lmss}\selectfont Work Experience}
-\begin{tabular}{p{2.3cm}|p{15.4cm}}
-	\centering 2015 - 2019 & Programmer Analyst for DXC Bath Iron Works Account, Bath ME\\&\small{Primary Support role for multiple areas of the shipyard including the Learning Management, Work Authorization, Tool Management and Finance systems.}\\&\small{Technical Lead for multiple projects which involved vetting and setting up products as well as creating interfaces between these systems.}\\&\small{Development was primarily done in Java, VB, VB Script, PowerShell, BATCH, BASH, HTML Oracle SQL and MS SQL.}\\&\small{Responsible for training an intern on specific areas of the shiyard.}
-	\\\multicolumn{2}{c}{} \\
-	\centering 2014 - 2015 & Application Developer for Fujifilm, Bedford MA\\&\small{Contract position to develop the Dternity Deep Archive Portal.}\\&\small{Created web applications in ASP.NET using JQuery, JavaScript, CSS and MS SQL.}\\&\small{Created scripts to perform automated tasks using Python and BASH scripts.}
-	\\\multicolumn{2}{c}{} \\
-	\centering 2013 & Web Developer Intern for BMighty2, Lincoln VT\\&\small{Developed small business websites using WordPress in a team environment.}\\&\small{Created websites, widgets and plugins using PHP, CSS, JavaScript, JQuery and MySQL.}\\\multicolumn{2}{c}{} \\
-\end{tabular}
-
+\vspace{-0.5cm}
+\begin{longtable}{p{1in}|p{6in}}
+	\centering 2019 - Present & \textbf{Principal Software Engineer for Northrop Grumman, Melbourne FL}\vspace{0.1cm}\\&
+        Developed Python scripts to verify the Stores Management System behaves as described in the requirements and helping to debug issues as they were discovered.\vspace{0.2cm}\\&
+        Created Python and Bash utilities to configure the system in order to make testing more consistent and repeatable, as well as incorporated them into the build process to make them available to multiple teams.\vspace{0.2cm}\\&
+        Created utilities that allow test scripts to communicate with the system through MIL-STD-1760 signals in both simulated and physical environments. This required working closely with electrical engineers to understand the hardware connections as well as using lower level interfaces to manipulate these signals on hardware from the test scripts.\vspace{0.2cm}\\&
+        Responsible for updating and configuring the Subsystem tests to run on hardware, identifying issues and training other team members about the best design patterns for writing tests that would perform as expected in both simulated and physical environments.\vspace{0.2cm}\\&
+        Created Python objects to emulate different aircraft systems in order to test functionality that relied on these systems.\vspace{0.2cm}\\&
+        Designed and implemented a test framework for the Store Emulator in order to verify the behavior described by the Universal Armament Interface ICD. Also responsible for developing tests and debugging issues as functionality was implemented as well as setting up the test suite to run periodically in an automated environment.\vspace{0.2cm}\\&
+        Created a MiDEF parser using MIL-STD-3014 in C\# in order to both encode and decode data that was then incorporated into other applications.\vspace{0.2cm}\\&
+	Subject Matter Expert for multiple areas as well as being responsible for training new hires and other developers in order to promote knowledge sharing.\\
+        \multicolumn{2}{c}{}\\
+	\centering 2015 - 2019 & \textbf{Programmer Analyst for DXC Bath Iron Works Account, Bath ME}\vspace{0.1cm}\\&
+        Technical Lead for the Work Authorization Implementation which used an Oracle SQL database to query multiple sources for charging information, validate which charges should be sent to the Time Accounting System and then send updates to the system in almost real time. This was a major success as the old implementation would process only a couple hundred thousand records in an overnight batch process whereas the new implementation was processing almost two million records every fifteen minutes.\vspace{0.2cm}\\&
+        Technical Lead for the Tool Management and Learning Management Integration which required creating a Java Web Service that would query the Learning Management System to verify the corresponding training had been completed before sending a response back to the Tool Management System that would allow the user to receive the requested tools.\vspace{0.2cm}\\&
+        Technical Lead for the Learning Management Implementation which required vetting products from different vendors based on the functionality required by the shipyard, creating interfaces to keep the system up to date with active employees, creating logical representations of existing training certifications in the new system and finally transferring current and historical completed training from the old system to the new system without losing any information in order to guarantee the accuracy of each employees training.\vspace{0.2cm}\\&
+        Technical Lead for the Finance System Database Migration which required updating, testing and documenting close to fifty legacy applications written in SQL, Visual Basic, Windows Batch and Java to prove to the customer there would be no interruption to production during the migration.\vspace{0.2cm}\\&
+        Responsible for training an intern about best practices for development as well as how to properly resolve issues as they were reported by the customer.\\
+	\multicolumn{2}{c}{}\\
+	\centering 2014 - 2015 & \textbf{Application Developer for Fujifilm, Bedford MA}\vspace{0.1cm}\\&
+	Contract position to create the Dternity Deep Archive Portal which allowed customers to manage stored physical backups through a web portal.\vspace{0.2cm}\\&
+        The web portal was written in ASP.NET and queried a Microsoft SQL database in order to view files stored in backups as well as create requests to retrieve backed up files.\vspace{0.2cm}\\&
+        Python and Bash scripts were used to create customer accounts with their own partitioned FTP server that was linked to their web portal login as well as update the Miscrosoft SQL database with the files stored in each physical backup received from the customer.\vspace{0.2cm}\\&
+        Created an ASP.NET application that would generate a name tag and automatically send the image to an external printer using device drivers in order to identify visitors.\\
+	\multicolumn{2}{c}{}\\
+	\centering 2013 & \textbf{Web Developer Intern for BMighty2, Lincoln VT}\vspace{0.1cm}\\&
+	Created small business websites on the WordPress Content Management System in a team environment using PHP, CSS, JQuery and MySQL.\vspace{0.2cm}\\&
+        Developed WordPress widgets and plugins to allow for functionality to be easily re-used across multiple websites.\\
+\end{longtable}
+\vspace{-0.7cm}
 \section*{\fontfamily{lmss}\selectfont Education}
-\begin{tabular}{p{2.3cm}|p{15.4cm}}
-	\centering 2011 - 2014 & BS Computer Science, Loughborough University, England\\&\small{Final Year Project was titled "The Implementation and Optimization of the SHA2 and SHA3 Hashing Algorithms" which involved implementing the algorithms in Java.}\\\multicolumn{2}{c}{} \\
-\end{tabular}
-
-\section*{\fontfamily{lmss}\selectfont Extra-Curricular Activities}
-\begin{tabular}{p{2.3cm}|p{15.4cm}}
-	& Eagle Scout Award\\&\small{Achieved the rank of Eagle Scout by being heavily involved in my Boy Scout troop as well as completing an Eagle Project which involved fundraising for and building a brick firepit for East Boston Camps in Westford, MA.}\\\multicolumn{2}{c}{} \\
-\end{tabular}
-
-\section*{\fontfamily{lmss}\selectfont Project Highlights}
-\begin{tabular}{p{2.3cm}|p{15.4cm}}
-	\centering 2018 & Work Authorization Implementation\\&\small{Developed an interface that collected charges from multiple systems, validated the charges and then updated the WFM System with the charging information.}\\&\small{The program was written entirely in Oracle SQL and would query millions of rows of data every 15 minutes with the goal of keeping the target system as up to date as possible; Performance was a major factor in the implementation.}\\&\small{Worked closely with the client to understand their needs as well as the vendor to understand the limitations of their product.}\\&\small{Code was versioned using Apache Subversion and issues were reported and tracked through Jira Issue Tracking.}\\&\small{Design, architecture and deploy documentation was created describing the technical and practical aspects of the program.}\\&\small{Client was granted access to domain tables in order to give them control over how the program worked without having to make code changes.}\\\multicolumn{2}{c}{} \\
-	\centering 2017 & Cornerstone LMS and PMS Implementation\\&\small{Technical Lead on the vetting and implementation of the Cornerstone products as well as creating multiple interfaces between other systems in the shipyard.}\\&\small{One interface was an Oracle SQL procedure that collected changes made to PeopleSoft and Active Directory so that a Java program could then send the changes to the Cornerstone portal using SOAP requests.}\\&\small{Another interface was a Java program that used SOAP requests and Oracle SQL queries to validate certifications in Cornerstone before sending the responses onto the Tool Management system in order to verify that users have the correct training before checking out specific tools.}\\&\small{Also responsible for retrieving data from the old Learning Management system so that it could be uploaded into the Cornerstone LMS and PMS.}\\&\small{Worked closely with the vendor to understand the limitations of their product as well as how to import data effectively.}\\\multicolumn{2}{c}{} \\
-	\centering 2016 & Deltek Oracle Migration Project\\&\small{The Oracle SQL database that was used for the Finance system was migrated to Linux servers with an updated version of Oracle SQL.}\\&\small{Multiple applications were tested and legacy interfaces written in SQL, VB, BATCH and Java had to be updated or re-written in order to work with the new database.}\\&\small{Worked closely with the client and the vendor to ensure applications and services had been tested and validated thoroughly.}\\&\small{Created project level and application level design and deploy documentation as well as scheduled team members to perform tasks on the deploy date.}\\\multicolumn{2}{c}{} \\
-	\centering 2015 & Fujifilm Dternity Deep Archive\\&\small{Developed the Dternity Portal web application using VB.NET, HTML, CSS, JavaScript and MS SQL.}\\&\small{Customers would sign into the portal in order to view files stored in the archive as well as request data be made available to them.}\\&\small{Responsible for setting up and configuring specific services on Linux servers to meet security and customer needs.}\\&\small{Python scripts were also created to perform automated tasks on the server such as synchronizing user accounts and creating segregated virtualized SFTP servers.}\\\multicolumn{2}{c}{} \\
-\end{tabular}
-
-\centering References available upon request
-
+\vspace{-0.5cm}
+\begin{longtable}{p{1in}|p{6in}}
+	\centering 2011 - 2014 & \textbf{BS Computer Science, Loughborough University, England}\vspace{0.1cm}\\&
+	\small{Final Year Project was titled "The Implementation and Optimization of the SHA2 and SHA3 Hashing Algorithms" which involved implementing the algorithms in Java.}\\
+\end{longtable}
 \end{document}

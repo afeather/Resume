@@ -1,60 +1,103 @@
 Alexander Feather
-(978) 399 9828
-AlexFeather77@Gmail.com
+alexfeather77@gmail.com
+Professional Software Engineer with experience working closely with end users to design and develop complex
+systems of applications using the best technology for the task.
+ Team leader that enjoys learning new things and mentoring others on concepts that may be unfamiliar to
+them in order to improve the overall quality of the project.
+ Experience in many different fields including web and socket based services, single user desktop applications, multi-application interfaces and low level hardware programming.
+ Participated in complete life-cycle development for multiple projects including generating requirements,
+designing architecture, developing applications, testing functionality and writing documentation.
+
+Technical Skills
+High Level Languages: Java, Python, PHP, Visual Basic, C# and ASP.NET.
+Scripting Languages:
+
+Bash, Batch, PowerShell, VBScript, JavaScript, JQuery, HTML and CSS.
+
+Databases:
+
+Microsoft SQL, Oracle SQL, MySQL and Microsoft Access.
+
+Tools:
+
+Jira, Bamboo, Confluence, Fisheye, BitBucket, Jenkins, Git, Apache Subversion,
+Oracle Mid-Tier Products and WordPress CMS.
 
 Work Experience
-2015 - Present
+2019 - Present
+
+Principal Software Engineer for Northrop Grumman, Melbourne FL
+Developed Python scripts to verify the Stores Management System behaves as described
+in the requirements and helping to debug issues as they were discovered.
+Created Python and Bash utilities to configure the system in order to make testing more
+consistent and repeatable, as well as incorporated them into the build process to make
+them available to multiple teams.
+Created utilities that allow test scripts to communicate with the system through MILSTD-1760 signals in both simulated and physical environments. This required working
+closely with electrical engineers to understand the hardware connections as well as using
+lower level interfaces to manipulate these signals on hardware from the test scripts.
+Responsible for updating and configuring the Subsystem tests to run on hardware, identifying issues and training other team members about the best design patterns for writing
+tests that would perform as expected in both simulated and physical environments.
+Created Python objects to emulate different aircraft systems in order to test functionality
+that relied on these systems.
+Designed and implemented a test framework for the Store Emulator in order to verify
+the behavior described by the Universal Armament Interface ICD. Also responsible for
+developing tests and debugging issues as functionality was implemented as well as setting
+up the test suite to run periodically in an automated environment.
+Created a MiDEF parser using MIL-STD-3014 in C# in order to both encode and decode
+data that was then incorporated into other applications.
+Subject Matter Expert for multiple areas as well as being responsible for training new hires
+and other developers in order to promote knowledge sharing.
+
+2015 - 2019
 
 Programmer Analyst for DXC Bath Iron Works Account, Bath ME
-Primary support for the finance, work authorization, learning management and tool management systems as well as
-technical lead on projects involving these areas. Often work closely with the client to implement requested features
-and resolve any issues. Other responsibilities include training other employees, creating design and architecture
-documents, assisting with the vetting of new products, working with vendors to diagnose problems and creating
-project level deployment documents. Development was done mostly in Java, Oracle SQL, Bash and Visual Basic.
-Jira was used to track issues as they were reported.
+Technical Lead for the Work Authorization Implementation which used an Oracle SQL
+database to query multiple sources for charging information, validate which charges should
+be sent to the Time Accounting System and then send updates to the system in almost
+real time. This was a major success as the old implementation would process only a couple
+hundred thousand records in an overnight batch process whereas the new implementation
+was processing almost two million records every fifteen minutes.
+Technical Lead for the Tool Management and Learning Management Integration which
+required creating a Java Web Service that would query the Learning Management System
+to verify the corresponding training had been completed before sending a response back
+to the Tool Management System that would allow the user to receive the requested tools.
+Technical Lead for the Learning Management Implementation which required vetting products from different vendors based on the functionality required by the shipyard, creating
+interfaces to keep the system up to date with active employees, creating logical representations of existing training certifications in the new system and finally transferring current
+and historical completed training from the old system to the new system without losing
+any information in order to guarantee the accuracy of each employees training.
+Technical Lead for the Finance System Database Migration which required updating,
+testing and documenting close to fifty legacy applications written in SQL, Visual Basic,
+Windows Batch and Java to prove to the customer there would be no interruption to
+production during the migration.
+Responsible for training an intern about best practices for development as well as how to
+properly resolve issues as they were reported by the customer.
 
 2014 - 2015
 
 Application Developer for Fujifilm, Bedford MA
-A contract position working in a small team to develop a system to manage data stored in Fujifilm’s Dternity Deep
-Archive. Web applications were created in ASP.NET using MS SQL, AJAX, CSS and JQuery. Responsibilities
-also included setting up virtualized SFTP servers and developing Python scripts to perform automated tasks on the
-servers.
+Contract position to create the Dternity Deep Archive Portal which allowed customers to
+manage stored physical backups through a web portal.
+The web portal was written in ASP.NET and queried a Microsoft SQL database in order
+to view files stored in backups as well as create requests to retrieve backed up files.
+Python and Bash scripts were used to create customer accounts with their own partitioned
+FTP server that was linked to their web portal login as well as update the Miscrosoft SQL
+database with the files stored in each physical backup received from the customer.
+Created an ASP.NET application that would generate a name tag and automatically send
+the image to an external printer using device drivers in order to identify visitors.
 
-2013 - 2014
-
-Web Developer for Axvault.com
-This commercial guitar website was converted from a Wordpress and Code Igniter hybrid platform to a pure Wordpress
-platform. The work also included fixing minor problems with the website and adding new features.
-
-Summer 2013
+2013
 
 Web Developer Intern for BMighty2, Lincoln VT
-BMighty2 develops small business websites using Wordpress. Responsibilities included working with PHP, SQL, CSS
-and JavaScript to develop Wordpress templates, plug-ins and widgets to meet the customer’s needs.
+Created small business websites on the WordPress Content Management System in a team
+environment using PHP, CSS, JQuery and MySQL.
+Developed WordPress widgets and plugins to allow for functionality to be easily re-used
+across multiple websites.
 
 Education
 2011 - 2014
 
 BS Computer Science, Loughborough University, England
-Graduated with a 2:2 (equivalent to a 3.0 GPA). Final Year Project was titled ”The Implementation and Optimization
-of the SHA2 and SHA3 Hashing Algorithms” which involved implementing the SHA2 and recently chosen SHA3
-algorithms in Java as well as researching and implementing optimizations for both programs. The report compared
-the performance of each of the programs based on how quickly they could hash a given set of data.
-
-2007 - 2011
-
-Westford Academy, Westford MA
-Graduated high school with a 2.7 GPA and a 1910 on the SAT. Also completed the Computer Science AP Test with
-a 5/5, the Calculus AP Test with a 4/5 and the Statistics AP Test with a 3/5.
-
-Extra-Curricular Activities
-Eagle Scout Award
-Achieved the rank of Eagle Scout by being heavily involved in my local Boy Scout troop as well as completing an
-Eagle Project which involved fundraising and building a brick firepit for East Boston Camps in Westford, MA.
-
-Order of the Arrow
-Very active with the Order of the Arrow which is the National Honors Society of Scouting. This is a youth led
-organization that performs service for the community as well as the local Scout camps.
+Final Year Project was titled ”The Implementation and Optimization of the SHA2 and SHA3
+Hashing Algorithms” which involved implementing the algorithms in Java.
 
 

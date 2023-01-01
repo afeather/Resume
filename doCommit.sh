@@ -8,7 +8,7 @@ pdflatex -interaction=nonstopmode Resume.tex && echo "Resume.pdf created..."
 pdftoppm -f 1 -singlefile -png Resume.pdf Resume && echo "Resume.png created..."
 
 # Create our TXT file
-pdftotext Resume.pdf Resume.txt & echo "Resume.txt created..."
+pdftotext Resume.pdf Resume.txt && echo "Resume.txt created..."
 
 # Add the new files to the repo
 git add Resume.tex Resume.pdf Resume.png Resume.txt README.md doCommit.sh

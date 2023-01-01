@@ -2,10 +2,10 @@ Alexander Feather
 alexfeather77@gmail.com
 Professional Software Engineer with experience working closely with end users to design and develop complex
 systems of applications using the best technology for the task.
- Team leader that enjoys learning new things and mentoring others on concepts that may be unfamiliar to
+ Team leader that enjoys learning new things and mentoring others on concepts that may be unfamiliar to
 them in order to improve the overall quality of the project.
- Experience in many different fields including web and socket based services, single user desktop applications, multi-application interfaces and low level hardware programming.
- Participated in complete life-cycle development for multiple projects including generating requirements,
+ Experience in many different fields including web and socket based services, single user desktop applications, multi-application interfaces and low level hardware programming.
+ Participated in complete life-cycle development for multiple projects including generating requirements,
 designing architecture, developing applications, testing functionality and writing documentation.
 
 Technical Skills
@@ -97,7 +97,7 @@ Education
 2011 - 2014
 
 BS Computer Science, Loughborough University, England
-Final Year Project was titled ”The Implementation and Optimization of the SHA2 and SHA3
-Hashing Algorithms” which involved implementing the algorithms in Java.
+Final Year Project was titled The Implementation and Optimization of the SHA2 and SHA3
+Hashing Algorithms which involved implementing the algorithms in Java.
 
 

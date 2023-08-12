@@ -10,9 +10,4 @@ convert png:<(pdftoppm -png -f 1 -singlefile Resume.pdf) png:<(pdftoppm -png -f 
 # Create our TXT file
 pdftotext Resume.pdf - | perl -pe 's/[^[:ascii:]]//g' > Resume.txt && echo "Resume.txt created..."
 
-# Add the new files to the repo
-git add Resume.tex Resume.pdf Resume.png Resume.txt README.md doCommit.sh
-git commit -m "Updated Resume Files"
-
-# Push
-git push -u origin master
+rm Resume.aux Resume.log

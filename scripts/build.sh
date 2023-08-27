@@ -9,5 +9,3 @@ convert png:<(pdftoppm -png -f 1 -singlefile Resume.pdf) png:<(pdftoppm -png -f 
 
 # Create our TXT file
 pdftotext Resume.pdf - | perl -pe 's/[^[:ascii:]]//g' > Resume.txt && echo "Resume.txt created..."
-
-rm Resume.aux Resume.log

@@ -50,9 +50,8 @@ Developed Python scripts to verify the Stores Management System behaves as descr
 requirements and helped to debug issues as they were discovered.
 Created Python and Bash utilities to configure the system in order to make testing more consistent and repeatable, as well as incorporated them into the build process to make them available
 to multiple teams.
-Created utilities that allow test scripts to communicate with the system through MIL-STD1760 signals in both simulated and physical environments. This required working closely with
-electrical engineers to understand the hardware connections as well as using lower level interfaces
-to manipulate these signals on hardware from the test scripts.
+Created utilities that allow test scripts to communicate with the system through MIL-STD-1760
+signals on both simulated environments and physical relays and devices.
 
 Responsible for updating and configuring the Subsystem tests to run on hardware, identifying
 issues and training other team members about the best design patterns for writing tests that
@@ -60,7 +59,7 @@ would perform as expected in both simulated and physical environments.
 Designed and implemented a test framework for the Store Emulator in order to verify the behavior
 described by the Universal Armament Interface ICD. Also responsible for developing tests and
 debugging issues as functionality was implemented as well as setting up the test suite to run
-periodically in an automated environment.
+periodically in Bamboo.
 Created a MiDEF parser using MIL-STD-3014 in C# in order to both encode and decode data
 that was then incorporated into other applications.
 Subject Matter Expert for multiple areas as well as being responsible for training new hires and
